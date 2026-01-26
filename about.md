@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello my name is George and I am a computer science major at CAS NYU. I am interested in software engineering and learning how to work on large projects with others!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I love to travel and my wish to is to visit a majority of the world. 
