@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| March 1   | (link)[https://www.openstreetmap.org/changeset/179231939#map=19/40.758320/-74.185727]   | OpenStreet Map Contribution    |   I added a new restaurant    |
 |     |     |     |      |
 |     |     |     |      |
